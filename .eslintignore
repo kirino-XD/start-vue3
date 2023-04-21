@@ -1,0 +1,5 @@
+# 忽略以下文件语法检查
+node_modules
+dist
+src/assets
+vite.config.ts
